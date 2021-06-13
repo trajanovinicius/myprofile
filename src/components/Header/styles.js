@@ -20,6 +20,10 @@ export const ContainerMenu = styled.div`
 
   width: 30%;
   height: 74px;
+
+  a {
+    text-decoration: none;
+  }
 `;
 
 export const Label = styled.label`
