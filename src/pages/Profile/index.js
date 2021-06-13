@@ -19,7 +19,7 @@ function Profile() {
           <Message>
             Desenvolvedor front-end web,
             <br /> atualmente focado nas tecnologias JS(React).
-            <br /> Será um prazer, trabalharmos juntos.
+            <br /> Será um prazer trabalharmos juntos.
           </Message>
           <a href="https://github.com/viniluk" target="_blank" rel="noreferrer">
             <button>Meus Projetos</button>
