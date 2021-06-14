@@ -4,7 +4,7 @@ import { lighten } from "polished";
 export const Container = styled.div`
   display: flex;
   width: 100%;
-  height: 74px;
+  height: 90px;
   background-color: #010101;
   justify-content: space-between;
 
@@ -19,7 +19,7 @@ export const ContainerMenu = styled.div`
   align-items: center;
 
   width: 30%;
-  height: 74px;
+  height: 90px;
 
   a {
     text-decoration: none;
