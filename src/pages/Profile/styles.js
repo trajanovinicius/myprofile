@@ -15,6 +15,7 @@ export const Title = styled.h1`
   color: #fff;
   font-weight: 600;
   margin-left: 28px;
+  font-size: 60px;
 
   &:hover {
     color: ${lighten(0.1, "#00C2FF")};
@@ -30,7 +31,7 @@ export const Message = styled.p`
   font-family: "Poppins", sans-serif;
   color: #a9a9a9;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 30px;
   margin-left: 28px;
 
   &:hover {
@@ -43,10 +44,15 @@ export const ContainerImg = styled.div`
   justify-content: center;
   align-items: center;
 
-  width: 258px;
-  height: 290px;
+  width: 350px;
+  height: 350px;
   background-color: #090e10;
+  border-radius: 1rem;
   margin-left: 28px;
+
+  img {
+    width: 30vh;
+  }
 `;
 
 export const ContentText = styled.div`
@@ -55,12 +61,13 @@ export const ContentText = styled.div`
   margin-left: 28px;
 
   button {
-    width: 116px;
-    height: 31px;
+    width: 216px;
+    height: 50px;
     margin-left: 28px;
     border: none;
 
     font-family: "Poppins", sans-serif;
+    font-size: 20px;
     font-weight: 500;
     color: #fff;
 
