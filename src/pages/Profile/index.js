@@ -17,8 +17,8 @@ function Profile() {
         <ContentText>
           <Title>Olá, eu sou Vinicius</Title>
           <Message>
-            Desenvolvedor front-end web,
-            <br /> atualmente focado nas tecnologias JS(React).
+            Desenvolvedor fullstack,
+            <br /> atualmente focado nas tecnologias JS(React) e Node.js.
             <br /> Será um prazer trabalharmos juntos.
           </Message>
           <a href="https://github.com/viniluk" target="_blank" rel="noreferrer">
