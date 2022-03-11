@@ -8,14 +8,25 @@ function Header() {
       <ContainerMenu>
         <a
           href="https://github.com/trajanovinicius"
-          hcontact="https://www.linkedin.com/in/vinicius-trajano-3266a4204/"
           target="_blank"
           rel="noreferrer"
         >
-          <Label>Projects</Label>
+          <Label>Projects </Label>
         </a>
-        <Label>Services</Label>
-        <Label>Contact</Label>
+        <a
+          href="https://www.linkedin.com/in/vinicius-trajano-3266a4204/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <Label>Services</Label>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/vinicius-trajano-3266a4204/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <Label>Contact</Label>
+        </a>
       </ContainerMenu>
     </Container>
   );
