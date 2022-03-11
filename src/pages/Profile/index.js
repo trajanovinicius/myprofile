@@ -7,7 +7,7 @@ import {
   ContainerImg,
   ContentText,
 } from "./styles";
-import profileImg from "../../assets/profile.png";
+import profileImg from "../../assets/profile2.jpeg";
 
 function Profile() {
   return (
@@ -15,11 +15,12 @@ function Profile() {
       <Header />
       <Content>
         <ContentText>
-          <Title>Olá, eu sou Vinicius</Title>
+          <Title>Hi, I'm Vinicius Trajano</Title>
           <Message>
-            Desenvolvedor fullstack,
-            <br /> atualmente focado nas tecnologias JS(React) e Node.js.
-            <br /> Será um prazer trabalharmos juntos.
+            Backend Developer,
+            <br /> currently focused on Node.js technology and student of data
+            science.
+            <br /> It will be a pleasure to work together.
           </Message>
           <a
             href="https://github.com/trajanovinicius"
