@@ -6,7 +6,11 @@ function Header() {
     <Container>
       <img src={logo} alt="logo" />
       <ContainerMenu>
-        <a href="https://github.com/viniluk" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/trajanovinicius"
+          target="_blank"
+          rel="noreferrer"
+        >
           <Label>Projetos</Label>
         </a>
         <Label>Serviços</Label>
