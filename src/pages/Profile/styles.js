@@ -44,14 +44,14 @@ export const ContainerImg = styled.div`
   justify-content: center;
   align-items: center;
 
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
   background-color: #090e10;
   border-radius: 1rem;
-  margin-left: 28px;
+  margin-left: 40px;
 
   img {
-    width: 30vh;
+    width: 20vh;
   }
 `;
 

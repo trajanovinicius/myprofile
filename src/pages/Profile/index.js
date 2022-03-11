@@ -27,7 +27,7 @@ function Profile() {
             target="_blank"
             rel="noreferrer"
           >
-            <button>Meus Projetos</button>
+            <button>My Projects</button>
           </a>
         </ContentText>
         <ContainerImg>
