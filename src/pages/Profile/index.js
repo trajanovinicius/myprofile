@@ -21,7 +21,11 @@ function Profile() {
             <br /> atualmente focado nas tecnologias JS(React) e Node.js.
             <br /> Será um prazer trabalharmos juntos.
           </Message>
-          <a href="https://github.com/viniluk" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/trajanovinicius"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button>Meus Projetos</button>
           </a>
         </ContentText>
