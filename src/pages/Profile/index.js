@@ -18,9 +18,8 @@ function Profile() {
           <Title>Hi, I'm Vinicius Trajano</Title>
           <Message>
             Backend Developer,
-            <br /> currently focused on Node.js technology and student of data
-            science.
-            <br /> It will be a pleasure to work together.
+            <br /> currently focused on Node.js technology and software engineering student.
+            <br /> It will be a pleasure to work together. a complete passionate about software development
           </Message>
           <a
             href="https://github.com/trajanovinicius"

@@ -4,14 +4,14 @@ import logo from "../../assets/logo.svg";
 function Header() {
   return (
     <Container>
-      <img src={logo} alt="logo" />
+      <img src={logo} alt="logo"/>
       <ContainerMenu>
         <a
           href="https://github.com/trajanovinicius"
           target="_blank"
           rel="noreferrer"
         >
-          <Label>Projects </Label>
+          <Label>Projects</Label>
         </a>
         <a
           href="https://www.linkedin.com/in/vinicius-trajano-3266a4204/"
