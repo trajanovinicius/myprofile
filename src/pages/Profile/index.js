@@ -1,3 +1,4 @@
+import React from "react";
 import Header from "../../components/Header";
 import {
   Container,
@@ -18,19 +19,18 @@ function Profile() {
           <Title>Hi, I'm Vinicius Trajano</Title>
           <Message>
             Backend Developer,
-            <br /> currently focused on Node.js technology and software engineering student.
-            <br /> It will be a pleasure to work together. a complete passionate about software development
+            <br /> currently focused on Node.js and software engineering student.
+            <br /> It will be a pleasure to work together. a complete passionate about software development.
           </Message>
           <a
             href="https://github.com/trajanovinicius"
             target="_blank"
             rel="noreferrer"
           >
-            <button>My Projects</button>
           </a>
         </ContentText>
         <ContainerImg>
-          <img src={profileImg} alt="imagem de perfil" />
+          <img src={profileImg} alt="imagem de perfil"/>
         </ContainerImg>
       </Content>
     </Container>
