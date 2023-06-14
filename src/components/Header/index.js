@@ -18,13 +18,6 @@ function Header() {
           target="_blank"
           rel="noreferrer"
         >
-          <Label>Services</Label>
-        </a>
-        <a
-          href="https://www.linkedin.com/in/vinicius-trajano-3266a4204/"
-          target="_blank"
-          rel="noreferrer"
-        >
           <Label>Contact</Label>
         </a>
       </ContainerMenu>
